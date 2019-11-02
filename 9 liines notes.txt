@@ -1,0 +1,21 @@
+DOCTYPE - Document Type - tells the browser what kind of web page 
+							we're going to make
+							
+HTML - hyper text markup language
+
+HEAD - holds meta data
+
+META - "OVERALL" data, data about data
+
+TITLE - the name displayed in the tab on the browser
+
+BODY - Holds everything we want to see, i.e, words, colors, videos, pictures
+
+This is how you write a tag in HTML
+
+-opening tag 	closing tag
+<p>				</p> - paragraph
+
+<div>			</div> - divider
+
+<img> - image
